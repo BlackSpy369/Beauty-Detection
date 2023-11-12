@@ -3,7 +3,31 @@
 
 This is a Deep Learning project, which detects whether is person is average or beautiful. It is a beta model more improvements will be done soon.
 
+## Requirements
 
+Following Python modules must be installed in your system:
+
+- numpy
+- tensorflow
+- cv2
+
+## Usage
+
+- First clone this Repo
+
+```bash
+git clone https://github.com/BlackSpy369/Beauty-Detection
+```
+
+- Use Repo
+```bash
+cd Beauty-Detection
+```
+
+- Run main.py
+```bash
+python main.py
+```
 
 ## Acknowledgements
 
@@ -12,4 +36,3 @@ This is a Deep Learning project, which detects whether is person is average or b
 ## Authors
 
 - [BlackSpy369](https://github.com/BlackSpy369)
-
